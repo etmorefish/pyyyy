@@ -1,38 +1,47 @@
-# -*- coding: utf-8 -*-
-# @Time    : 19-6-23 下午3:26
-# @Author  : MaoLei
-# @Email   : maolei025@qq.com
-# @File    : test.py
-# @Software: PyCharm
+#! /usr/bin/env python3
+print('''|---欢迎进入通讯录程序---|
+|---1、 查询联系人资料---|
+|---2、 插入新的联系人---|
+|---3、 删除已有联系人---|
+|---4、 退出通讯录程序---|''')
+addressBook={}#定义通讯录
+while 1:
+    temp=input('请输入指令代码：')
+    if not temp.isdigit():
+        print("输入的指令错误，请按照提示输入")
+        continue
+    item=int(temp)#转换为数字
+    if item==4:
+        print("|---感谢使用通讯录程序---|")
+        break
+    name = input("请输入联系人姓名:")
+    if item==1:
+        if name in addressBook:
+            print(name,':',addressBook[name])
+            continue
+        else:
+            print("该联系人不存在！")
+    if item==2:
+        if name in addressBook:
+            print("您输入的姓名在通讯录中已存在-->>",name,":",addressBook[name])
+            isEdit=input("是否修改联系人资料(Y/N）:")
+            if isEdit=='Y':
+                userphone = input("请输入联系人电话：")
+                addressBook[name]=userphone
+                print("联系人修改成功")
+                continue
+            else:
+                continue
+        else:
+            userphone=input("请输入联系人电话：")
+            addressBook[name]=userphone
+            print("联系人加入成功！")
+            continue
 
-import json
-str1 = "k:1|k1:2|k2:3|k3:4"
-str1 = str1.replace('|', '","')
-str1 = str1.replace(':', '":"')
-str2 = '{"'+str1+'"}'
-print (str2,type(str2))
-print (json.loads(str2))
-
-
-str1 = "k:1|k1:2|k2:3|k3:4"
-def str2dict(str1):
-    dict1 = {}
-    for iterms in str1.split('|'):
-        key,value = iterms.split(':')
-        dict1[key] = value
-    return dict1
-print(str2dict(str1))
-print('-'*100)
-import json
-dic = {'name': '张三'}
-result = json.dumps(dic, ensure_ascii=False)
-print(result)
-
-from urllib import parse
-str1 = "name=张三"
-# 编码
-str2 = parse.quote(str1)
-print(str2)
-# 解码
-str3 = parse.unquote(str2)
-print(str3)
+    if item==3:
+        if name in addressBook:
+            del addressBook[name]
+            print("删除成功！")
+            continue
+        else:
+            print("联系人不存在")

@@ -1,0 +1,14 @@
+成功开启POP3/SMTP服务,在第三方客户端登录时，密码框请输入以下授权码：
+yklaxemnrudpbdai
+
+
+成功开启IMAP/SMTP服务,在第三方客户端登录时，密码框请输入以下授权码：
+qfjopixdtjmnbehe
+
+
+成功开启Exchange服务,在第三方客户端登录时，密码框请输入以下授权码：
+vkrvxmieuxlobdce
+
+
+成功开启CardDav/CalDav服务,在第三方客户端登录时，密码框请输入以下授权码：
+rojdswvkobdgbfce
