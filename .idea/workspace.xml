@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1739dca6-8ffe-4f03-a3fd-ee88f828da6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code_2018" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_2018/chong/budejie.py" beforeDir="false" afterPath="$PROJECT_DIR$/code_2018/chong/budejie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_2018" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -316,7 +314,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="353" />
+    <option name="x" value="352" />
     <option name="y" value="64" />
     <option name="width" value="1886" />
     <option name="height" value="967" />
@@ -514,9 +512,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="353" y="64" width="1886" height="967" extended-state="0" />
+    <frame x="352" y="64" width="1886" height="967" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1583514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1583514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -530,7 +528,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.30141845" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4989154" visible="true" weight="0.30141845" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989154" visible="true" weight="0.30141845" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32942554" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32985657" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
