@@ -1,0 +1,15 @@
+
+{
+  "taskdb": "mysql+taskdb://root:sixqwe123@127.0.0.1:3306/ps_taskdb",
+  "projectdb": "mysql+projectdb://root:sixqwe123@127.0.0.1:3306/ps_projectdb",
+  "resultdb": "mysql+resultdb://root:sixqwe123@127.0.0.1:3306/ps_resultdb",
+  "message_queue": "redis://127.0.0.1:6379/0",
+  "webui": {
+    "username": "admin",
+    "password": "admin",
+    "need-auth": true
+  },
+  "result_worker":{
+    "result_cls":"my_resultworker.MyResultWorker"
+  }
+}
