@@ -11,8 +11,8 @@ class NewPipeline(object):
 
     def open_spider(self,spider):
         client = pymongo.MongoClient(host='127.0.0.1',port=27017)
-        connection = client['new_163']
-        self.db = connection['items']
+        connection = client['new_1633']
+        self.db = connection['item']
 
     def process_item(self, item, spider):
         try:
