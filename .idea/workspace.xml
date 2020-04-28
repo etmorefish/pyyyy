@@ -27,8 +27,10 @@
     <SUITE FILE_PATH="coverage/pyyyy$run.coverage" NAME="run Coverage Results" MODIFIED="1574070896053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu" />
     <SUITE FILE_PATH="coverage/pyyyy$weibo_login.coverage" NAME="weibo_login Coverage Results" MODIFIED="1561556859343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo" />
     <SUITE FILE_PATH="coverage/pyyyy$xl_rsa.coverage" NAME="xl_rsa Coverage Results" MODIFIED="1561110406685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encrytion" />
+    <SUITE FILE_PATH="coverage/pyyyy$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1588067439769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
     <SUITE FILE_PATH="coverage/pyyyy$xiala.coverage" NAME="xiala Coverage Results" MODIFIED="1561712943479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/pyyyy$wuyuan.coverage" NAME="wuyuan Coverage Results" MODIFIED="1586685925078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
+    <SUITE FILE_PATH="coverage/pyyyy$spider.coverage" NAME="spider Coverage Results" MODIFIED="1588067061336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
     <SUITE FILE_PATH="coverage/pyyyy$ml_rsa.coverage" NAME="ml_rsa Coverage Results" MODIFIED="1561213503719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encrytion" />
     <SUITE FILE_PATH="coverage/pyyyy$count_http.coverage" NAME="count_http Coverage Results" MODIFIED="1563959695030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mitmproxy" />
     <SUITE FILE_PATH="coverage/pyyyy$cccsv.coverage" NAME="cccsv Coverage Results" MODIFIED="1563261601813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/save_files" />
@@ -91,7 +93,7 @@
     <session id="-5742077">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="44" />
+          <entry key="project.closed" value="47" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
@@ -105,20 +107,20 @@
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.31" value="2" />
-          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="4" value="1" />
           <entry key="cfg" value="2" />
-          <entry key="csv" value="9" />
+          <entry key="csv" value="10" />
           <entry key="data" value="1" />
           <entry key="h" value="1" />
           <entry key="header" value="1" />
@@ -127,9 +129,10 @@
           <entry key="js" value="1" />
           <entry key="json" value="3" />
           <entry key="log" value="1" />
+          <entry key="md" value="1" />
           <entry key="pem" value="7" />
           <entry key="pstat" value="1" />
-          <entry key="py" value="231" />
+          <entry key="py" value="234" />
           <entry key="sh" value="3" />
           <entry key="txt" value="4" />
         </counts>
@@ -141,9 +144,10 @@
           <entry key="Ini" value="2" />
           <entry key="JSON" value="3" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="29" />
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="231" />
+          <entry key="Python" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -152,15 +156,17 @@
           <entry key="dummy" value="15" />
           <entry key="h" value="9" />
           <entry key="json" value="22" />
-          <entry key="py" value="17050" />
+          <entry key="md" value="15" />
+          <entry key="py" value="17262" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C++" value="9" />
           <entry key="JSON" value="22" />
+          <entry key="Markdown" value="15" />
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="17224" />
+          <entry key="Python" value="17436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -181,13 +187,58 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codddddd/wuyuan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding>
                 <element signature="e#147#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codddddd/jd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="24" />
+              <folding>
+                <element signature="e#144#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/codddddd/spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codddddd/analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -217,8 +268,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/codddddd/www.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+            <state relative-caret-position="663">
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
               <folding>
                 <element signature="e#145#154#0" expanded="true" />
               </folding>
@@ -265,9 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/new/new/spiders/new_spider.py" />
-        <option value="$PROJECT_DIR$/scrapyuniversal/scrapyuniversal/items.py" />
-        <option value="$PROJECT_DIR$/scrapyuniversal/scrapyuniversal/settings.py" />
         <option value="$PROJECT_DIR$/scrapyuniversal/scrapyuniversal/spiders/china.py" />
         <option value="$PROJECT_DIR$/scrapyuniversal/scrapyuniversal/pipelines.py" />
         <option value="$PROJECT_DIR$/newspapers/seed/tt111.py" />
@@ -316,6 +364,9 @@
         <option value="$PROJECT_DIR$/codddddd/ac1.py" />
         <option value="$PROJECT_DIR$/codddddd/www.py" />
         <option value="$PROJECT_DIR$/codddddd/wuyuan.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/codddddd/jd.py" />
+        <option value="$PROJECT_DIR$/codddddd/analysis.py" />
       </list>
     </option>
   </component>
@@ -326,8 +377,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="82" />
+    <option name="x" value="119" />
+    <option name="y" value="67" />
     <option name="width" value="1355" />
     <option name="height" value="946" />
   </component>
@@ -353,7 +404,8 @@
             <path>
               <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="weibo" type="462c0819:PsiDirectoryNode" />
+              <item name="codddddd" type="462c0819:PsiDirectoryNode" />
+              <item name="comment_data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,17 +421,18 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codddddd" />
+      <recent name="$PROJECT_DIR$/qinfeng" />
+      <recent name="$PROJECT_DIR$/mitmproxy" />
+      <recent name="$PROJECT_DIR$/加密" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/new/new" />
       <recent name="$PROJECT_DIR$/scrapydownloadertest" />
       <recent name="$PROJECT_DIR$/tutorial" />
       <recent name="$PROJECT_DIR$/newspapers/seed" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/qinfeng" />
-      <recent name="$PROJECT_DIR$/mitmproxy" />
-      <recent name="$PROJECT_DIR$/加密" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -394,51 +447,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.wuyuan">
-    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyyyy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="H2O (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyyyy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/H2O.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.analysis">
     <configuration name="ac1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyyyy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -453,6 +462,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/ac1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyyyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyyyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,19 +559,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.H2O (1)" />
-      <item itemvalue="Python.001" />
       <item itemvalue="Python.ac1" />
       <item itemvalue="Python.www" />
       <item itemvalue="Python.wuyuan" />
+      <item itemvalue="Python.spider" />
+      <item itemvalue="Python.analysis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.analysis" />
+        <item itemvalue="Python.spider" />
         <item itemvalue="Python.wuyuan" />
         <item itemvalue="Python.www" />
         <item itemvalue="Python.ac1" />
-        <item itemvalue="Python.001" />
-        <item itemvalue="Python.H2O (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -545,14 +598,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="82" width="1355" height="946" extended-state="0" />
+    <frame x="119" y="67" width="1355" height="946" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15841584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285528" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4958111" weight="0.42251816" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4958111" weight="0.40920097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -561,15 +614,15 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5049505" side_tool="true" weight="0.28692493" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4950495" visible="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4950495" weight="0.2532189" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4978701" weight="0.32832617" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32985657" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.33206397" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.4744859" />
       <window_info anchor="right" id="Database" order="4" weight="0.32923833" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1583514" />
@@ -611,25 +664,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jianshu/jianshu/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sohu/sohu/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sohu/sohu/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sohu/sohu/items.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newss/new/run.py" />
     <entry file="file://$PROJECT_DIR$/new/new/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -880,6 +914,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/codddddd/wuyuan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#147#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/weibo/weibo_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -899,20 +953,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codddddd/www.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        <state relative-caret-position="663">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
           <folding>
             <element signature="e#145#154#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/codddddd/wuyuan.py">
+    <entry file="file://$PROJECT_DIR$/codddddd/jd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="424">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="24" />
           <folding>
-            <element signature="e#147#156#0" expanded="true" />
+            <element signature="e#144#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codddddd/comment_data/青花瓷.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codddddd/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codddddd/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
