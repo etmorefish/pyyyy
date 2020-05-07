@@ -1,33 +1,62 @@
 # Ubuntu必装软件
 
 * pycharm
+
 * anaconda
+
 * typora
+
 * sublime
+
 * vscode
+
 * wps
+
 * 网易云音乐
+
 * 微信
+
 * tim
+
 * 微信开发者工具
+
 * teamviewer
+
 * wine
+
 * postman
+
 * Navicat
+
 * java
+
 * wechat_web_devtools
 
 * electron-ssr
+
 * google
+
 * dconf
+
 * uget
+
 * vlc
+
 * kazam 
+
 * Gparted
+
 * steam
+
 * Finalshell
 
 * Pinta
+
+* MongoDB
+
+* MySQL
+
+* Redis
 
   >  pip install qrcode
   >
