@@ -60,21 +60,25 @@
 
   >  pip install qrcode
   >
-  > ### [Bluetooth quick connect](https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/)
+  >  ### [Bluetooth quick connect](https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/)
   >
-  > ### Notes](https://extensions.gnome.org/extension/1357/notes/)
+  >  ### Notes](https://extensions.gnome.org/extension/1357/notes/)
   >
-  > ### [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
+  >  ### [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
   >
-  > ### [Screenshot Window Sizer](https://extensions.gnome.org/extension/881/screenshot-window-sizer/)
+  >  ### [Screenshot Window Sizer](https://extensions.gnome.org/extension/881/screenshot-window-sizer/)
   >
-  > ### [Simple net speed](https://extensions.gnome.org/extension/1085/simple-net-speed/)
+  >  ### [Simple net speed](https://extensions.gnome.org/extension/1085/simple-net-speed/)
   >
-  > ### [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
+  >  ### [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
   >
-  > ### [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+  >  ### [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
   >
-  > ### [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
+  >  ### [Coverflow Alt-Tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
   >
-  > ### [Gnome Global Application Menu(HUD for Gnome)](https://extensions.gnome.org/extension/1250/gnome-global-application-menu/)
+  >  ### [Gnome Global Application Menu(HUD for Gnome)](https://extensions.gnome.org/extension/1250/gnome-global-application-menu/)
+  >
+  >  sushi
+  >
+  >  
 
