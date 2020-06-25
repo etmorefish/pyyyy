@@ -7,7 +7,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new/new/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/new/new/pipelines.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +48,7 @@
     <SUITE FILE_PATH="coverage/pyyyy$sel.coverage" NAME="sel Coverage Results" MODIFIED="1561710994360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/pyyyy$save_mysql.coverage" NAME="save_mysql Coverage Results" MODIFIED="1563262219374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/save_files" />
     <SUITE FILE_PATH="coverage/pyyyy$logging_rt.coverage" NAME="logging_rt Coverage Results" MODIFIED="1590142534915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
-    <SUITE FILE_PATH="coverage/pyyyy$thread_pool.coverage" NAME="thread_pool Coverage Results" MODIFIED="1590246286351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
+    <SUITE FILE_PATH="coverage/pyyyy$thread_pool.coverage" NAME="thread_pool Coverage Results" MODIFIED="1590412522191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/pyyyy$sha.coverage" NAME="sha Coverage Results" MODIFIED="1590145132387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
     <SUITE FILE_PATH="coverage/pyyyy$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1563271491061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapydownloadertest" />
     <SUITE FILE_PATH="coverage/pyyyy$H2O__1_.coverage" NAME="H2O (1) Coverage Results" MODIFIED="1586061985560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
@@ -102,162 +101,6 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-5742077">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="53" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="5" />
-          <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.24" value="4" />
-          <entry key="project.open.time.25" value="4" />
-          <entry key="project.open.time.26" value="6" />
-          <entry key="project.open.time.27" value="4" />
-          <entry key="project.open.time.28" value="3" />
-          <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.30" value="3" />
-          <entry key="project.open.time.31" value="2" />
-          <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="2" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.67" value="1" />
-          <entry key="project.opened" value="55" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="4" value="2" />
-          <entry key="cfg" value="2" />
-          <entry key="csv" value="10" />
-          <entry key="data" value="2" />
-          <entry key="h" value="1" />
-          <entry key="header" value="1" />
-          <entry key="ipynb" value="1" />
-          <entry key="jl" value="1" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="2" />
-          <entry key="json" value="5" />
-          <entry key="log" value="4" />
-          <entry key="md" value="2" />
-          <entry key="pem" value="7" />
-          <entry key="pstat" value="1" />
-          <entry key="py" value="289" />
-          <entry key="pyi" value="2" />
-          <entry key="sh" value="3" />
-          <entry key="txt" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C++" value="1" />
-          <entry key="IPNB" value="1" />
-          <entry key="Image" value="1" />
-          <entry key="Ini" value="2" />
-          <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="289" />
-          <entry key="PythonStub" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Python Console" value="174" />
-          <entry key="dummy" value="16" />
-          <entry key="h" value="9" />
-          <entry key="json" value="22" />
-          <entry key="md" value="15" />
-          <entry key="py" value="24417" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C++" value="9" />
-          <entry key="JSON" value="22" />
-          <entry key="Markdown" value="15" />
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="24591" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages">
-        <counts>
-          <entry key="git.branch.merge" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codddddd/jian.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feiyan/11.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feiyan/ff.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feiyan/fy.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feiyan/2.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feiyan/3.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feiyan/4">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codddddd/jd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codddddd/bendibao.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -299,135 +142,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/qeotes.py" />
-        <option value="$PROJECT_DIR$/new/new/pipelines.py" />
-        <option value="$PROJECT_DIR$/feiyan/ff.py" />
-        <option value="$PROJECT_DIR$/feiyan/2.json" />
-        <option value="$PROJECT_DIR$/feiyan/11.py" />
-        <option value="$PROJECT_DIR$/feiyan/fy.py" />
-        <option value="$PROJECT_DIR$/pymongo/demo.py" />
-        <option value="$PROJECT_DIR$/pymongo/demo1.py" />
-        <option value="$PROJECT_DIR$/pymongo/cnn.py" />
-        <option value="$PROJECT_DIR$/pymongo/redis_conn.py" />
-        <option value="$PROJECT_DIR$/pymongo/mysql_con.py" />
-        <option value="$PROJECT_DIR$/pymongo/house.py" />
-        <option value="$PROJECT_DIR$/pymongo/con.py" />
-        <option value="$PROJECT_DIR$/qinfeng/H2O.py" />
-        <option value="$PROJECT_DIR$/codddddd/H2O.py" />
-        <option value="$PROJECT_DIR$/codddddd/001.py" />
-        <option value="$PROJECT_DIR$/codddddd/ac2.py" />
-        <option value="$PROJECT_DIR$/codddddd/ac1.py" />
-        <option value="$PROJECT_DIR$/codddddd/www.py" />
-        <option value="$PROJECT_DIR$/codddddd/wuyuan.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/codddddd/jd.py" />
-        <option value="$PROJECT_DIR$/codddddd/analysis.py" />
-        <option value="$PROJECT_DIR$/codddddd/test.py" />
-        <option value="$PROJECT_DIR$/codddddd/bendibao.py" />
-        <option value="$PROJECT_DIR$/codddddd/bdb.ipynb" />
-        <option value="$PROJECT_DIR$/sql/pymysql/demo.py" />
-        <option value="$PROJECT_DIR$/sql/pyredis/demo.py" />
-        <option value="$PROJECT_DIR$/sql/pymongo/redis_conn.py" />
-        <option value="$PROJECT_DIR$/sql/json_rt.py" />
-        <option value="$PROJECT_DIR$/sql/datetime_rt.py" />
-        <option value="$PROJECT_DIR$/sql/logging_rt.py" />
-        <option value="$PROJECT_DIR$/sql/base64_rt.py" />
-        <option value="$PROJECT_DIR$/sql/my.log" />
-        <option value="$PROJECT_DIR$/sql/sha.py" />
-        <option value="$PROJECT_DIR$/sql/thead_1.py" />
-        <option value="$PROJECT_DIR$/sql/thread_1.py" />
-        <option value="$PROJECT_DIR$/sql/thread_class.py" />
-        <option value="$PROJECT_DIR$/sql/thread_lock.py" />
-        <option value="$PROJECT_DIR$/sql/queen.py" />
-        <option value="$PROJECT_DIR$/sql/thread_pool.py" />
-        <option value="$PROJECT_DIR$/sql/thread_pool1.py" />
-        <option value="$PROJECT_DIR$/douban/douban/spiders/douban_spider.py" />
-        <option value="$PROJECT_DIR$/douban/douban/items.py" />
-        <option value="$PROJECT_DIR$/douban/douban/middlewares.py" />
-        <option value="$PROJECT_DIR$/douban/douban/proxyhelper.py" />
-        <option value="$PROJECT_DIR$/douban/douban/pipelines.py" />
-        <option value="$PROJECT_DIR$/douban/douban/settings.py" />
-        <option value="$PROJECT_DIR$/douban/douban/extends.py" />
-        <option value="$PROJECT_DIR$/douban/douban/run.py" />
-        <option value="$PROJECT_DIR$/codddddd/jian.py" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="663" />
-    <option name="y" value="57" />
-    <option name="width" value="1355" />
-    <option name="height" value="946" />
-  </component>
+  <component name="ProjectId" id="1cftFeLGDy2nmnTAqm9sTC1nNVs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="codddddd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="feiyan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="newspapers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyyyy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyyyy" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapydownloadertest" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Videos/test" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -444,19 +177,29 @@
       <recent name="$PROJECT_DIR$/newspapers/seed" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.jian">
+  <component name="RunManager" selected="Python.reqwe">
+    <configuration name="dbooktop250" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyyyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/dbooktop250.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="jian" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyyyy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -479,7 +222,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="queen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reqwe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyyyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/reqwe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyyyy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -492,31 +257,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql/queen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql/thread_class.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyyyy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban/douban" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban/douban/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -545,42 +288,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thread_pool1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyyyy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sql" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql/thread_pool1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.queen" />
-      <item itemvalue="Python.thread_pool" />
-      <item itemvalue="Python.thread_pool1" />
-      <item itemvalue="Python.run" />
       <item itemvalue="Python.jian" />
+      <item itemvalue="Python.thread_class" />
+      <item itemvalue="Python.thread_pool" />
+      <item itemvalue="Python.dbooktop250" />
+      <item itemvalue="Python.reqwe" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jian" />
-        <item itemvalue="Python.run" />
-        <item itemvalue="Python.thread_pool1" />
+        <item itemvalue="Python.reqwe" />
+        <item itemvalue="Python.dbooktop250" />
         <item itemvalue="Python.thread_pool" />
-        <item itemvalue="Python.queen" />
+        <item itemvalue="Python.thread_class" />
+        <item itemvalue="Python.jian" />
       </list>
     </recent_temporary>
   </component>
@@ -594,6 +315,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561099158597</updated>
+      <workItem from="1590931379933" duration="2951000" />
+      <workItem from="1591092829496" duration="170000" />
+      <workItem from="1591156839075" duration="7000" />
+      <workItem from="1591379776015" duration="4561000" />
     </task>
     <servers />
   </component>
@@ -606,64 +331,8 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="775" y="59" width="1355" height="946" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17440975" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32808718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4958111" visible="true" weight="0.35714287" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39709443" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292978" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5049505" side_tool="true" weight="0.28692493" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4950495" weight="0.25302663" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4978701" weight="0.32832617" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32985657" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.4744859" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32923833" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1583514" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285528" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45981088" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895698" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.26712328" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946752" weight="0.30141845" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32942554" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32985657" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32923833" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -673,406 +342,86 @@
       <path value="$PROJECT_DIR$/scrapy-redis" />
     </ignored-roots>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590932399472">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1590932399472" />
+    <state x="875" y="552" key="#xdebugger.evaluate" timestamp="1591384743218">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="875" y="552" key="#xdebugger.evaluate/0.28.1920.1052@0.28.1920.1052" timestamp="1591384743218" />
+    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl" timestamp="1590933207208">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1590933207208" />
+    <state width="1346" height="281" key="GridCell.Tab.0.bottom" timestamp="1591384759645">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="281" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
+    <state width="1346" height="281" key="GridCell.Tab.0.center" timestamp="1591384759645">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="281" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
+    <state width="1346" height="281" key="GridCell.Tab.0.left" timestamp="1591384759645">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="281" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
+    <state width="1346" height="281" key="GridCell.Tab.0.right" timestamp="1591384759645">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="281" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
+    <state width="1346" height="315" key="GridCell.Tab.1.bottom" timestamp="1591384759639">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="315" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759639" />
+    <state width="1346" height="315" key="GridCell.Tab.1.center" timestamp="1591384759638">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="315" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759638" />
+    <state width="1346" height="315" key="GridCell.Tab.1.left" timestamp="1591384759638">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="315" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759638" />
+    <state width="1346" height="315" key="GridCell.Tab.1.right" timestamp="1591384759639">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1346" height="315" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759639" />
+    <state x="741" y="237" key="SettingsEditor" timestamp="1590938651894">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="741" y="237" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1590938651894" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/codddddd/jian.py</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/codddddd/dbooktop250.py</url>
+          <line>32</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codddddd/dbooktop250.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codddddd/dbooktop250.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codddddd/reqwe.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>res</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>moneys.extend(money)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>moneys</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>shengs</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>data.xpath('//div[4]/span[2]/text()')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>total</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>data.xpath('//div[4]/span[2]/text()')[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>data.xpath('//div[3]/span[2]/text()')[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>re.split('-|至',time)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>time.split('至 or -')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.virtualenvs/spider/lib/python3.6/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/spider/lib/python3.6/site-packages/redis/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1698749177/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="716" column="10" selection-start-line="716" selection-start-column="10" selection-end-line="716" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/spider/lib/python3.6/site-packages/redis/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="598" column="55" selection-start-line="598" selection-start-column="51" selection-end-line="598" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/pymysql/demo.py" />
-    <entry file="file://$PROJECT_DIR$/sql/pyredis/demo.py" />
-    <entry file="file://$PROJECT_DIR$/Baidu/baidu.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/pymongo/redis_conn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="54" selection-start-line="54" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/data">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/json_rt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/datetime_rt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1362">
-          <caret line="1739" column="4" selection-start-line="1739" selection-start-column="4" selection-end-line="1739" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/bai.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baidu/baidu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/base64_rt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/my.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/logging_rt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/encrytion/exp1_rsa.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/encrytion/ml_rsa.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/sha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/thread_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="e#155#167#0" expanded="true" />
-            <marker date="1590243085899" expanded="true" signature="253:315" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/thread_lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/queen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding>
-            <element signature="e#148#176#0" expanded="true" />
-            <marker date="1590244570300" expanded="true" signature="262:267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/thread_pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="47" column="58" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="58" />
-          <folding>
-            <element signature="e#154#198#0" expanded="true" />
-            <marker date="1590246286301" expanded="true" signature="261:266" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:290" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:291" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:293" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:294" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:296" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:298" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:299" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:300" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:302" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="288:303" ph="..." />
-            <marker date="1590246286301" expanded="true" signature="807:812" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.6/multiprocessing/pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5729">
-          <caret line="348" column="45" selection-start-line="348" selection-start-column="41" selection-end-line="348" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2924">
-          <caret line="177" selection-start-line="177" selection-end-line="177" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/encrytion/my_des.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/thread_pool1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#154#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newspapers/newspapers/connection.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/thread_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="29" selection-end-column="28" />
-          <folding>
-            <marker date="1590242576866" expanded="true" signature="748:753" ph="..." />
-            <marker date="1590242576866" expanded="true" signature="833:838" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DouBanSpider-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-end-line="40" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new/new/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/spiders/douban_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#26#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/proxyhelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="e#217#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="94" column="25" lean-forward="true" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/extends.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#150#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codddddd/bendibao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codddddd/jd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feiyan/11.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feiyan/ff.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feiyan/fy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feiyan/2.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feiyan/3.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feiyan/4">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codddddd/jian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pyyyy$reqwe.coverage" NAME="reqwe Coverage Results" MODIFIED="1591383417176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
+    <SUITE FILE_PATH="coverage/pyyyy$dbooktop250.coverage" NAME="dbooktop250 Coverage Results" MODIFIED="1591380324774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
+    <SUITE FILE_PATH="coverage/pyyyy$thread_pool.coverage" NAME="thread_pool Coverage Results" MODIFIED="1591379884928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
   </component>
   <component name="masterDetails">
     <states>

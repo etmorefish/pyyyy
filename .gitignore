@@ -1,0 +1,9 @@
+node_modules/
+key.json
+
+*.py[cod]
+
+.idea/
+__pycache__
+build
+.pptx
