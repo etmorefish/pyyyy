@@ -150,7 +150,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_note/fileweb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -163,18 +163,19 @@
     <property name="settings.editor.selected.configurable" value="ics" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/codddddd" />
-      <recent name="$PROJECT_DIR$/qinfeng" />
-      <recent name="$PROJECT_DIR$/mitmproxy" />
-      <recent name="$PROJECT_DIR$/加密" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/new/new" />
       <recent name="$PROJECT_DIR$/scrapydownloadertest" />
       <recent name="$PROJECT_DIR$/tutorial" />
       <recent name="$PROJECT_DIR$/newspapers/seed" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shiyanlou_demo/GenQr" />
+      <recent name="$PROJECT_DIR$/shiyanlou_demo/PicToStr" />
+      <recent name="$PROJECT_DIR$/codddddd" />
+      <recent name="$PROJECT_DIR$/qinfeng" />
+      <recent name="$PROJECT_DIR$/mitmproxy" />
     </key>
   </component>
   <component name="RunManager" selected="Python.reqwe">
@@ -289,11 +290,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.dbooktop250" />
       <item itemvalue="Python.jian" />
+      <item itemvalue="Python.reqwe" />
       <item itemvalue="Python.thread_class" />
       <item itemvalue="Python.thread_pool" />
-      <item itemvalue="Python.dbooktop250" />
-      <item itemvalue="Python.reqwe" />
     </list>
     <recent_temporary>
       <list>
@@ -319,6 +320,8 @@
       <workItem from="1591092829496" duration="170000" />
       <workItem from="1591156839075" duration="7000" />
       <workItem from="1591379776015" duration="4561000" />
+      <workItem from="1593236799855" duration="37000" />
+      <workItem from="1593242211099" duration="4177000" />
     </task>
     <servers />
   </component>
@@ -343,18 +346,18 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590932399472">
+    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593242329180">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1590932399472" />
+    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1593242329180" />
     <state x="875" y="552" key="#xdebugger.evaluate" timestamp="1591384743218">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="875" y="552" key="#xdebugger.evaluate/0.28.1920.1052@0.28.1920.1052" timestamp="1591384743218" />
-    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl" timestamp="1590933207208">
+    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl" timestamp="1593246114496">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1590933207208" />
+    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1593246114496" />
     <state width="1346" height="281" key="GridCell.Tab.0.bottom" timestamp="1591384759645">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
