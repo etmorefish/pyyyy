@@ -15,6 +15,8 @@ class NewPipeline(object):
         self.db = connection['item']
 
     def process_item(self, item, spider):
+        print(self)
+        print('-'*50,item)
         try:
             self.db.save(item)
         except:

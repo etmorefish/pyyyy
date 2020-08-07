@@ -14,7 +14,8 @@ from pandas import DataFrame
 url_bdb = 'http://m.bendibao.com/news/xiaofeiquan/city.php'
 url = 'http://m.hz.bendibao.com/news/xiaofeiquan/'
 headers = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'}
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'
+}
 
 # 提取所有的url
 res_a = requests.get(url=url_bdb, headers=headers)
@@ -33,11 +34,10 @@ totals = []
 for i in item_urls:
 
     # 详细页面
-    print(n , i)
-    res = requests.get(url = i, headers = headers)
+    print(n, i)
+    res = requests.get(url=i, headers=headers)
     html = res.content.decode('UTF-8')
     r = etree.HTML(html)
-
 
     sheng = r.xpath('//div[@class="select"]/select[1]/option[@selected]/text()')[0]
     shi = r.xpath('//div[@class="select"]/select[2]/option[@selected]/text()')[0]
@@ -66,14 +66,13 @@ for i in item_urls:
         total = '未知'
     else:
         total = total[0]
-    n = n+1
+    n = n + 1
     shengs.append(sheng)
     shis.append(shi)
     methors.append(methor)
     times.append(time)
     moneys.append(money)
     totals.append(total)
-
 
     # print(total)
 data = {
@@ -86,4 +85,4 @@ data = {
 
 }
 df = DataFrame(data)
-df.to_csv('bendibao.csv',  index=False, header=True)
+df.to_csv('bendibao.csv', index=False, header=True)

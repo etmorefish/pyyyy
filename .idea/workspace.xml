@@ -110,35 +110,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>gtk</find>
-      <find>defa</find>
-      <find>乌海</find>
-      <find>doc</find>
-      <find>湖北</find>
-      <find>9</find>
-      <find>包头</find>
-      <find>cities</find>
-      <find>Omega</find>
-      <find>header</find>
-      <find>毛</find>
-      <find>2020</find>
-      <find>2020-04-28 14:52</find>
-      <find>list-detail</find>
-      <find>extend</find>
-      <find>init</find>
-      <find>pool</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>collection</replace>
-      <replace>append</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/加密</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -150,7 +121,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_note/fileweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../毕设/fbs/lianjia" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -160,7 +131,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -178,7 +149,7 @@
       <recent name="$PROJECT_DIR$/mitmproxy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reqwe">
+  <component name="RunManager" selected="Python.run">
     <configuration name="dbooktop250" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyyyy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,28 +172,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jian" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyyyy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codddddd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/jian.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="reqwe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyyyy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +186,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codddddd/reqwe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyyyy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new/new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new/new/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,18 +262,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.dbooktop250" />
-      <item itemvalue="Python.jian" />
       <item itemvalue="Python.reqwe" />
       <item itemvalue="Python.thread_class" />
       <item itemvalue="Python.thread_pool" />
+      <item itemvalue="Python.run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
         <item itemvalue="Python.reqwe" />
         <item itemvalue="Python.dbooktop250" />
         <item itemvalue="Python.thread_pool" />
         <item itemvalue="Python.thread_class" />
-        <item itemvalue="Python.jian" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +292,10 @@
       <workItem from="1591156839075" duration="7000" />
       <workItem from="1591379776015" duration="4561000" />
       <workItem from="1593236799855" duration="37000" />
-      <workItem from="1593242211099" duration="4177000" />
+      <workItem from="1593242211099" duration="4394000" />
+      <workItem from="1595254946109" duration="739000" />
+      <workItem from="1595339964933" duration="124000" />
+      <workItem from="1596786957902" duration="6063000" />
     </task>
     <servers />
   </component>
@@ -346,54 +320,65 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593242329180">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="529" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596790020469">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state x="529" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1002@0.28.1920.1002" timestamp="1596790020469" />
     <state x="529" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1593242329180" />
     <state x="875" y="552" key="#xdebugger.evaluate" timestamp="1591384743218">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="875" y="552" key="#xdebugger.evaluate/0.28.1920.1052@0.28.1920.1052" timestamp="1591384743218" />
-    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl" timestamp="1593246114496">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="435" y="266" width="424" height="482" key="FileChooserDialogImpl" timestamp="1596790931962">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
-    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1593246114496" />
-    <state width="1346" height="281" key="GridCell.Tab.0.bottom" timestamp="1591384759645">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="435" y="266" key="FileChooserDialogImpl/0.28.1920.1002@0.28.1920.1002" timestamp="1596790931962" />
+    <state x="435" y="278" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1595340086797" />
+    <state width="669" height="315" key="GridCell.Tab.0.bottom" timestamp="1596793462289">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.0.bottom/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462289" />
     <state width="1346" height="281" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
-    <state width="1346" height="281" key="GridCell.Tab.0.center" timestamp="1591384759645">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.0.center" timestamp="1596793462289">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.0.center/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462289" />
     <state width="1346" height="281" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
-    <state width="1346" height="281" key="GridCell.Tab.0.left" timestamp="1591384759645">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.0.left" timestamp="1596793462288">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.0.left/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462288" />
     <state width="1346" height="281" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
-    <state width="1346" height="281" key="GridCell.Tab.0.right" timestamp="1591384759645">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.0.right" timestamp="1596793462289">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.0.right/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462289" />
     <state width="1346" height="281" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759645" />
-    <state width="1346" height="315" key="GridCell.Tab.1.bottom" timestamp="1591384759639">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.1.bottom" timestamp="1596793462291">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.1.bottom/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462291" />
     <state width="1346" height="315" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759639" />
-    <state width="1346" height="315" key="GridCell.Tab.1.center" timestamp="1591384759638">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.1.center" timestamp="1596793462290">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.1.center/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462290" />
     <state width="1346" height="315" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759638" />
-    <state width="1346" height="315" key="GridCell.Tab.1.left" timestamp="1591384759638">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.1.left" timestamp="1596793462290">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.1.left/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462290" />
     <state width="1346" height="315" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759638" />
-    <state width="1346" height="315" key="GridCell.Tab.1.right" timestamp="1591384759639">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state width="669" height="315" key="GridCell.Tab.1.right" timestamp="1596793462290">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
+    <state width="669" height="315" key="GridCell.Tab.1.right/0.28.1920.1002@0.28.1920.1002" timestamp="1596793462290" />
     <state width="1346" height="315" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1591384759639" />
-    <state x="741" y="237" key="SettingsEditor" timestamp="1590938651894">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="669" y="155" key="SettingsEditor" timestamp="1596790053234">
+      <screen x="0" y="28" width="1920" height="1002" />
     </state>
-    <state x="741" y="237" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1590938651894" />
+    <state x="669" y="155" key="SettingsEditor/0.28.1920.1002@0.28.1920.1002" timestamp="1596790053234" />
+    <state x="669" y="161" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1595340069434" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -418,11 +403,17 @@
           <line>34</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/new/new/pipelines.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pyyyy$reqwe.coverage" NAME="reqwe Coverage Results" MODIFIED="1591383417176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
+    <SUITE FILE_PATH="coverage/pyyyy$run.coverage" NAME="run Coverage Results" MODIFIED="1596791229102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new/new" />
     <SUITE FILE_PATH="coverage/pyyyy$dbooktop250.coverage" NAME="dbooktop250 Coverage Results" MODIFIED="1591380324774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codddddd" />
     <SUITE FILE_PATH="coverage/pyyyy$thread_pool.coverage" NAME="thread_pool Coverage Results" MODIFIED="1591379884928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
   </component>
