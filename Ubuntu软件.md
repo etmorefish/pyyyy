@@ -82,3 +82,8 @@
   >
   >  
 
+* Qv2ray
+* goldendict
+* stellarium
+* l2tp
+* google-pinyin
