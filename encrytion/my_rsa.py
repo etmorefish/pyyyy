@@ -1,6 +1,6 @@
 from Cryptodome.PublicKey import RSA
 from Cryptodome.Cipher import PKCS1_OAEP
-data = '我是心蓝哈哈哈哈'.encode()
+data = '我是哈哈哈哈'.encode()
 
 # 导入公钥
 public_key = RSA.import_key(open("public.pem").read())

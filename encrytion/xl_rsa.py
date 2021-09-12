@@ -46,6 +46,14 @@ class Rsa:
         cipher_rsa = PKCS1_OAEP.new(self.key)
         return cipher_rsa.encrypt(data)
 
+    def decrypt(self, data):
+        """
+        decrypt data by rsa
+        :param data: encrypted data
+        :return: utf-8 text
+        """
+
+
 
 
 
@@ -53,6 +61,6 @@ class Rsa:
 if __name__ == '__main__':
 
     rsa = Rsa(pubkey=open("public.pem").read())
-    res = rsa.encrypt('我是心蓝'.encode())
+    res = rsa.encrypt('我是WeFi'.encode())
     print(res)
-    print(len(res))
+    # print(len(res))

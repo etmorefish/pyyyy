@@ -8,3 +8,5 @@ __pycache__
 build
 .pptx
 *.zip
+books/
+book.json

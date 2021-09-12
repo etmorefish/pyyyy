@@ -1,6 +1,6 @@
 import hashlib
 # sha1 sha256 sha512 一样的用法
-info = '心蓝老师最帅！'
+info = '2020加密乘车！'
 m = hashlib.md5(info.encode())  # 注意传入数据一定是二进制数据
 res1 = m.hexdigest()  # 输出散列字符串
 print(res1)
